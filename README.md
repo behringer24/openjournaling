@@ -1,4 +1,4 @@
-*Introducing Open Journaling: Combining Analog Simplicity with Markdown-inspired Structure**
+# Introducing Open Journaling: Combining Analog Simplicity with Markdown-inspired Structure
 
 Open Journaling is a mindful, analog approach to daily journaling that brings structure and clarity to your handwritten notes, tasks, thoughts, and emotions. This method utilizes classic paper notebooks while incorporating elements inspired by digital markdown to effectively organize daily life, enhance personal reflection, and foster creativity.
 
